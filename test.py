@@ -2,7 +2,7 @@
 '''
 Python sample file
 '''
+import sys
 
-a,b = 10,20
-a,b = b,a
-print(a,b)
+#print(a,b)
+print(sys.argv)
